@@ -1,1 +1,662 @@
-[]
+[
+  {
+    "url": "https://x.com/damianplayer/status/2011483040929706442",
+    "tweetId": "2011483040929706442",
+    "author": {
+      "name": "Damian Player",
+      "handle": "damianplayer",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1919117586735742976/llztJcpL_normal.jpg",
+      "isVerified": true,
+      "followers": 44233
+    },
+    "text": "the biggest AI opportunity right now is mid-market companies ($5M-$50M+ revenue):  \n\n• too big for cookie-cutter solutions \n• too small for enterprise consulting \n• drowning in manual workflows \n• have budget but zero AI expertise  \n\nthey’re stuck with serious cash but frozen",
+    "metrics": {
+      "views": 57825,
+      "likes": 776,
+      "retweets": 39,
+      "replies": 40,
+      "bookmarks": 773
+    },
+    "createdAt": "Wed Jan 14 16:58:23 +0000 2026"
+  },
+  {
+    "url": "https://x.com/SuhailKakar/status/2011448433769697764",
+    "tweetId": "2011448433769697764",
+    "author": {
+      "name": "Suhail Kakar",
+      "handle": "SuhailKakar",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1707618622812934144/1WdTsnMV_normal.jpg",
+      "isVerified": true,
+      "followers": 67723
+    },
+    "text": "in 2026, \n\nevery company will be looking for “ai nerds”\n\nnot data scientists. not ml engineers. just people who know how to automate boring shit with claude code, ai and llms\n\nthe new valuable skill is knowing which tasks to automate and how to glue tools together",
+    "metrics": {
+      "views": 23697,
+      "likes": 646,
+      "retweets": 54,
+      "replies": 112,
+      "bookmarks": 150
+    },
+    "createdAt": "Wed Jan 14 14:40:52 +0000 2026"
+  },
+  {
+    "url": "https://x.com/damianplayer/status/2011426702505718175",
+    "tweetId": "2011426702505718175",
+    "author": {
+      "name": "Damian Player",
+      "handle": "damianplayer",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1919117586735742976/llztJcpL_normal.jpg",
+      "isVerified": true,
+      "followers": 44233
+    },
+    "text": "go to grok and paste a profile url.   \n\nask it “scrape tweets above 1k likes about [keyword]” for any account in your niche.  \n\ngrab 5-10 of yours plus 5-10 from 3 top accounts in your space.  \n\nnow build a context profile:  \n\n• paste all tweets into claude  \n• ask it to find",
+    "metrics": {
+      "views": 49969,
+      "likes": 757,
+      "retweets": 50,
+      "replies": 46,
+      "bookmarks": 1718
+    },
+    "createdAt": "Wed Jan 14 13:14:31 +0000 2026"
+  },
+  {
+    "url": "https://x.com/lennysan/status/2011589313629471054",
+    "tweetId": "2011589313629471054",
+    "author": {
+      "name": "Lenny Rachitsky",
+      "handle": "lennysan",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_normal.jpg",
+      "isVerified": true,
+      "followers": 309186
+    },
+    "text": "Leaders have to rebuild their intuitions\n\n\"A lot of leaders have built intuitions over 10 or 15 years, and they are highly regarded for those intuitions. But now with AI in the picture, those intuitions will have to be relearned. And leaders have to be vulnerable to do that. \n\nI https://t.co/gsmp6ARL9O",
+    "metrics": {
+      "views": 17638,
+      "likes": 57,
+      "retweets": 1,
+      "replies": 6,
+      "bookmarks": 40
+    },
+    "createdAt": "Thu Jan 15 00:00:40 +0000 2026"
+  },
+  {
+    "url": "https://x.com/EXM7777/status/2011120583266943035",
+    "tweetId": "2011120583266943035",
+    "author": {
+      "name": "Machina",
+      "handle": "EXM7777",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1922574051580563456/-OFXIxnm_normal.jpg",
+      "isVerified": true,
+      "followers": 96128
+    },
+    "text": "the fastest way to learn AI automations is combining n8n's template library with a Claude project...\n\nhere's the system:\n\n- go to n8n templates and filter by most recent\n- download 10-15 workflow JSONs with their descriptions\n- upload everything into a Claude project\n- prompt",
+    "metrics": {
+      "views": 29531,
+      "likes": 571,
+      "retweets": 42,
+      "replies": 40,
+      "bookmarks": 784
+    },
+    "createdAt": "Tue Jan 13 16:58:06 +0000 2026"
+  },
+  {
+    "url": "https://x.com/0xmitsurii/status/2011647509370978769",
+    "tweetId": "2011647509370978769",
+    "author": {
+      "name": "mitsuri",
+      "handle": "0xmitsurii",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1941075962310840320/UdFUMozl_normal.jpg",
+      "isVerified": true,
+      "followers": 30240
+    },
+    "text": "Jensen Huang: I want my engineers to stop coding. https://t.co/mpJvjmbCoR",
+    "metrics": {
+      "views": 1669691,
+      "likes": 13906,
+      "retweets": 1568,
+      "replies": 258,
+      "bookmarks": 5507
+    },
+    "createdAt": "Thu Jan 15 03:51:55 +0000 2026"
+  },
+  {
+    "url": "https://x.com/damianplayer/status/2029968745020391866",
+    "tweetId": "2029968745020391866",
+    "author": {
+      "name": "Damian Player",
+      "handle": "damianplayer",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1919117586735742976/llztJcpL_normal.jpg",
+      "isVerified": true,
+      "followers": 44233
+    },
+    "text": "this is fucking wild… \n\nnobody is selling claude-as-a-service to corporate boomers.. \n\nand it’s THE most obvious arbitrage play on the internet.\n\nthis demographic controls the majority of company budgets in the US. \n\nthey have the authority to sign checks, the urgency to stay https://t.co/YQzWBgvTQF",
+    "metrics": {
+      "views": 68082,
+      "likes": 588,
+      "retweets": 18,
+      "replies": 73,
+      "bookmarks": 1026
+    },
+    "createdAt": "Fri Mar 06 17:13:58 +0000 2026"
+  },
+  {
+    "url": "https://x.com/kepano/status/2009241101941850481",
+    "tweetId": "2009241101941850481",
+    "author": {
+      "name": "kepano",
+      "handle": "kepano",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1563635599906549761/wIum4L8I_normal.jpg",
+      "isVerified": true,
+      "followers": 90321
+    },
+    "text": "cloud apps have locked generations of people into self-limiting beliefs about what a computer can do",
+    "metrics": {
+      "views": 96702,
+      "likes": 1843,
+      "retweets": 133,
+      "replies": 39,
+      "bookmarks": 206
+    },
+    "createdAt": "Thu Jan 08 12:29:43 +0000 2026"
+  },
+  {
+    "url": "https://x.com/boringmarketer/status/2009612536061301045",
+    "tweetId": "2009612536061301045",
+    "author": {
+      "name": "The Boring Marketer",
+      "handle": "boringmarketer",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1915712783183720448/AWDF0nBB_normal.jpg",
+      "isVerified": true,
+      "followers": 95162
+    },
+    "text": "we're probably not far from a 1-person agency run by someone that lives in the terminal doing $100,000 per month with 4 clients, replacing entire teams with agents/workflows/skills",
+    "metrics": {
+      "views": 62576,
+      "likes": 810,
+      "retweets": 26,
+      "replies": 110,
+      "bookmarks": 363
+    },
+    "createdAt": "Fri Jan 09 13:05:40 +0000 2026"
+  },
+  {
+    "url": "https://x.com/floriandarroman/status/2009978028894396603",
+    "tweetId": "2009978028894396603",
+    "author": {
+      "name": "Florian Darroman",
+      "handle": "floriandarroman",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1823349926526652416/USDhifWu_normal.jpg",
+      "isVerified": true,
+      "followers": 29015
+    },
+    "text": "This is how to make money fast in 2026.\n\n(he runs a $10M/year startup) https://t.co/Cy10ZIB2Nc",
+    "metrics": {
+      "views": 74604,
+      "likes": 1446,
+      "retweets": 98,
+      "replies": 18,
+      "bookmarks": 1649
+    },
+    "createdAt": "Sat Jan 10 13:18:00 +0000 2026"
+  },
+  {
+    "url": "https://x.com/slow_developer/status/2010169792355860913",
+    "tweetId": "2010169792355860913",
+    "author": {
+      "name": "Haider.",
+      "handle": "slow_developer",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1748789269949276161/PcVsAEz5_normal.jpg",
+      "isVerified": true,
+      "followers": 64157
+    },
+    "text": "Stephen Wolfram says AI won't end work, but it will make learning low-level mechanics obsolete\n\nWe moved from assembler to high-level languages, removing the need for humans to understand the machine's plumbing\n\n\"you don't have to go to the lower levels... it's no longer useful https://t.co/JWpLWF4Tfs",
+    "metrics": {
+      "views": 133008,
+      "likes": 1018,
+      "retweets": 122,
+      "replies": 125,
+      "bookmarks": 484
+    },
+    "createdAt": "Sun Jan 11 02:00:00 +0000 2026"
+  },
+  {
+    "url": "https://x.com/MMatt14/status/2010188315572793467",
+    "tweetId": "2010188315572793467",
+    "author": {
+      "name": "Mᜋtt",
+      "handle": "MMatt14",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2008544580833296384/e-4yFntF_normal.jpg",
+      "isVerified": true,
+      "followers": 3288
+    },
+    "text": "Linus is Vibecoding now\n\nIt's literally over, they might vibe-code the Linux kernel now https://t.co/DhW5vT6Fo5",
+    "metrics": {
+      "views": 926792,
+      "likes": 8037,
+      "retweets": 411,
+      "replies": 241,
+      "bookmarks": 1422
+    },
+    "createdAt": "Sun Jan 11 03:13:36 +0000 2026"
+  },
+  {
+    "url": "https://x.com/scaling_shields/status/2010320038658752793",
+    "tweetId": "2010320038658752793",
+    "author": {
+      "name": "James Shields",
+      "handle": "scaling_shields",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1978439762731020290/iNWmGYro_normal.jpg",
+      "isVerified": true,
+      "followers": 17043
+    },
+    "text": "found a guy charging dentists $3,500/year to file paperwork\n\n$2.4 million last year\n\nzero followers\n\nthe glitch:\n\nevery dentist in america needs compliance documents filed or they get fined\n\nosha stuff\nhipaa updates\ninfection control logs\n\nboring paperwork that changes every year",
+    "metrics": {
+      "views": 1442629,
+      "likes": 16569,
+      "retweets": 531,
+      "replies": 226,
+      "bookmarks": 9664
+    },
+    "createdAt": "Sun Jan 11 11:57:01 +0000 2026"
+  },
+  {
+    "url": "https://x.com/damianplayer/status/2010740315095990489",
+    "tweetId": "2010740315095990489",
+    "author": {
+      "name": "Damian Player",
+      "handle": "damianplayer",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1919117586735742976/llztJcpL_normal.jpg",
+      "isVerified": true,
+      "followers": 44233
+    },
+    "text": "Mark Cuban’s advice to people trying to get into AI is simple. help businesses implement.\n\nSMBs have budget but zero expertise. they’re not waiting for AGI. they’re waiting for someone to show them what’s possible.\n\nwhat’s stopping you from being the one they call? https://t.co/NHoh41hnT3",
+    "metrics": {
+      "views": 540759,
+      "likes": 4291,
+      "retweets": 383,
+      "replies": 79,
+      "bookmarks": 3741
+    },
+    "createdAt": "Mon Jan 12 15:47:03 +0000 2026"
+  },
+  {
+    "url": "https://x.com/alliekmiller/status/2010823427498893470",
+    "tweetId": "2010823427498893470",
+    "author": {
+      "name": "Allie K. Miller",
+      "handle": "alliekmiller",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1221821474790494208/ALX9y7KT_normal.jpg",
+      "isVerified": true,
+      "followers": 91690
+    },
+    "text": "Every individual AI consultant I talk to (including myself) is massively changing their business approach in 2026. \n\n2023 was about learning the new world. What is prompting. Should we ban this. What is a model. How do they work. Task force creation. Get a license for a few",
+    "metrics": {
+      "views": 34523,
+      "likes": 414,
+      "retweets": 47,
+      "replies": 77,
+      "bookmarks": 329
+    },
+    "createdAt": "Mon Jan 12 21:17:19 +0000 2026"
+  },
+  {
+    "url": "https://x.com/businessbarista/status/2010826905126150655",
+    "tweetId": "2010826905126150655",
+    "author": {
+      "name": "Alex Lieberman",
+      "handle": "businessbarista",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1972685728669634560/iQ0AD43Y_normal.png",
+      "isVerified": true,
+      "followers": 286128
+    },
+    "text": "I started my AI transformation business 9 months ago. \n\nFriends think I'm nuts when I tell them we will hit &gt;150 people and [redacted] million in revenue in 2026. \n\n3 reasons why: \n\n1) Tailwind of 2 huge markets \n\nNew market: AI transformation ($3.6 trillion by 2034) \nOld market:",
+    "metrics": {
+      "views": 26907,
+      "likes": 218,
+      "retweets": 10,
+      "replies": 30,
+      "bookmarks": 259
+    },
+    "createdAt": "Mon Jan 12 21:31:08 +0000 2026"
+  },
+  {
+    "url": "https://x.com/a16z/status/2011492409323168239",
+    "tweetId": "2011492409323168239",
+    "author": {
+      "name": "a16z",
+      "handle": "a16z",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "isVerified": false,
+      "followers": 942995
+    },
+    "text": "Robinhood CEO Vlad Tenev says AI is ushering in a \"job singularity\" – a Cambrian explosion of new job families across every imaginable field.\n\n“There's going to be a flurry of new entrepreneurial activity with micro corporations, solo institutions, and single-person unicorns.” https://t.co/6gmohU5UPE",
+    "metrics": {
+      "views": 192869,
+      "likes": 896,
+      "retweets": 124,
+      "replies": 61,
+      "bookmarks": 487
+    },
+    "createdAt": "Wed Jan 14 17:35:36 +0000 2026"
+  },
+  {
+    "url": "https://x.com/damianplayer/status/2018303363322945999",
+    "tweetId": "2018303363322945999",
+    "author": {
+      "name": "Damian Player",
+      "handle": "damianplayer",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1919117586735742976/llztJcpL_normal.jpg",
+      "isVerified": true,
+      "followers": 44232
+    },
+    "text": "stop trying to innovate with AI. every business runs on the same 5-6 core processes.\n\nthe bones are identical across industries. lead generation, sales, onboarding, fulfillment, reactivation.\n\nthe people making real money with AI aren’t reinventing the wheel. they mapped what",
+    "metrics": {
+      "views": 13308,
+      "likes": 230,
+      "retweets": 14,
+      "replies": 39,
+      "bookmarks": 164
+    },
+    "createdAt": "Mon Feb 02 12:39:54 +0000 2026"
+  },
+  {
+    "url": "https://x.com/o_wutang/status/2014585566390583450",
+    "tweetId": "2014585566390583450",
+    "author": {
+      "name": "Alia Wu",
+      "handle": "o_wutang",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2027063353659867143/ZL1kxBg4_normal.jpg",
+      "isVerified": true,
+      "followers": 9424
+    },
+    "text": "@martin_casado @noufalsoghyar @lateinteraction The bottleneck is underinvestment on the human capital side.\n\nMost people will sit through an AI upskilling class and still produce lazy slop. They’ll have the same tools, use the same prompts, and get wildly different outputs than the person next to them. AI output is",
+    "metrics": {
+      "views": 5860,
+      "likes": 17,
+      "retweets": 4,
+      "replies": 0,
+      "bookmarks": 11
+    },
+    "createdAt": "Fri Jan 23 06:26:42 +0000 2026"
+  },
+  {
+    "url": "https://x.com/damianplayer/status/2015142898916847866",
+    "tweetId": "2015142898916847866",
+    "author": {
+      "name": "Damian Player",
+      "handle": "damianplayer",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1919117586735742976/llztJcpL_normal.jpg",
+      "isVerified": true,
+      "followers": 44232
+    },
+    "text": "who’s selling claude-as-a-service?\n\nthere’s insane demand for all things Claude right now. \n\nboomers would pay you serious money to get them setup on proper AI infra.",
+    "metrics": {
+      "views": 40947,
+      "likes": 504,
+      "retweets": 17,
+      "replies": 52,
+      "bookmarks": 263
+    },
+    "createdAt": "Sat Jan 24 19:21:21 +0000 2026"
+  },
+  {
+    "url": "https://x.com/TheTranscript_/status/2014707245796524497",
+    "tweetId": "2014707245796524497",
+    "author": {
+      "name": "The Transcript",
+      "handle": "TheTranscript_",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1393567164687425536/uvi6xzjJ_normal.png",
+      "isVerified": true,
+      "followers": 96840
+    },
+    "text": "DeepMind CEO @demishassabis 's advice to young people on AI skills:\n\n\"If I was to advise the youth of today, you tell the kids: get unbelievably proficient with the new tools, immerse yourself in it, become native with it, and then leapfrog, you know, whatever professional ladder",
+    "metrics": {
+      "views": 70753,
+      "likes": 901,
+      "retweets": 77,
+      "replies": 10,
+      "bookmarks": 461
+    },
+    "createdAt": "Fri Jan 23 14:30:13 +0000 2026"
+  },
+  {
+    "url": "https://x.com/NoahEpstein_/status/2014468623675621608",
+    "tweetId": "2014468623675621608",
+    "author": {
+      "name": "Nozz",
+      "handle": "NoahEpstein_",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1921531026083323905/ZBNhQZHa_normal.jpg",
+      "isVerified": true,
+      "followers": 37111
+    },
+    "text": "someone's about to make $50K/month teaching people how to use Claude Cowork.\n\nnot building with it. teaching it.\n\nbecause here's the thing - fortune 500 companies have massive AI budgets and nowhere to spend them. most don't even know Claude Cowork exists. and the ones that do?",
+    "metrics": {
+      "views": 189329,
+      "likes": 1507,
+      "retweets": 69,
+      "replies": 46,
+      "bookmarks": 1292
+    },
+    "createdAt": "Thu Jan 22 22:42:01 +0000 2026"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2013618082019959071",
+    "tweetId": "2013618082019959071",
+    "author": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_normal.jpg",
+      "isVerified": true,
+      "followers": 386263
+    },
+    "text": "The world belongs to the fast",
+    "metrics": {
+      "views": 90622,
+      "likes": 2058,
+      "retweets": 190,
+      "replies": 190,
+      "bookmarks": 259
+    },
+    "createdAt": "Tue Jan 20 14:22:16 +0000 2026"
+  },
+  {
+    "url": "https://x.com/dabit3/status/2012900856434245670",
+    "tweetId": "2012900856434245670",
+    "author": {
+      "name": "nader dabit",
+      "handle": "dabit3",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1951619597695672321/c1FsysWP_normal.jpg",
+      "isVerified": true,
+      "followers": 187168
+    },
+    "text": "Wow, after 14 years of being a software developer I would have never guessed in a million years that writing, specs, and ideas would be the bottleneck for my expressivity and output.\n\nBut here I am, 5 agent loops running in perpetuity, spending 100% of my time finding the fastest",
+    "metrics": {
+      "views": 296715,
+      "likes": 3745,
+      "retweets": 225,
+      "replies": 233,
+      "bookmarks": 1629
+    },
+    "createdAt": "Sun Jan 18 14:52:16 +0000 2026"
+  },
+  {
+    "url": "https://x.com/damianplayer/status/2012593845511303398",
+    "tweetId": "2012593845511303398",
+    "author": {
+      "name": "Damian Player",
+      "handle": "damianplayer",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1919117586735742976/llztJcpL_normal.jpg",
+      "isVerified": true,
+      "followers": 44232
+    },
+    "text": "go to linkedin. search \"we're hiring\" posts from companies in your target industry. \n\nhiring = growth. \ngrowth = systems breaking.\n\nnow read what role they're hiring for: \"office manager\" = ops chaos, \"customer success\" = support backlog, \"sales lead\" = follow-up with customers.",
+    "metrics": {
+      "views": 31050,
+      "likes": 400,
+      "retweets": 26,
+      "replies": 22,
+      "bookmarks": 520
+    },
+    "createdAt": "Sat Jan 17 18:32:19 +0000 2026"
+  },
+  {
+    "url": "https://x.com/tbpn/status/1999895155772739881",
+    "tweetId": "1999895155772739881",
+    "author": {
+      "name": "TBPN",
+      "handle": "tbpn",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2007964599774220288/jQbJ0IDt_normal.jpg",
+      "isVerified": true,
+      "followers": 253198
+    },
+    "text": "Mark Cuban on the next big job students should focus on:\n\nMost companies don’t know how to implement AI, especially small businesses.\n\n“Companies don’t understand how to implement AI right now to get a competitive advantage… learn to customize a model, walk into a company, show https://t.co/uHOlgLMdOi",
+    "metrics": {
+      "views": 1031599,
+      "likes": 4746,
+      "retweets": 577,
+      "replies": 148,
+      "bookmarks": 3925
+    },
+    "createdAt": "Sat Dec 13 17:32:16 +0000 2025"
+  },
+  {
+    "url": "https://x.com/mcuban/status/1999958454757425439",
+    "tweetId": "1999958454757425439",
+    "author": {
+      "name": "Mark Cuban",
+      "handle": "mcuban",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1422637130/mccigartrophy_normal.jpg",
+      "isVerified": true,
+      "followers": 8551651
+    },
+    "text": "There will be 2 types of companies in the future.   \n\nThose that are great at AI, and those that used to be in business",
+    "metrics": {
+      "views": 1079968,
+      "likes": 7601,
+      "retweets": 888,
+      "replies": 1315,
+      "bookmarks": 1063
+    },
+    "createdAt": "Sat Dec 13 21:43:47 +0000 2025"
+  },
+  {
+    "url": "https://x.com/businessbarista/status/1999929587535384831",
+    "tweetId": "1999929587535384831",
+    "author": {
+      "name": "Alex Lieberman",
+      "handle": "businessbarista",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1972685728669634560/iQ0AD43Y_normal.png",
+      "isVerified": true,
+      "followers": 286128
+    },
+    "text": "This is our entire bet at @tenex_labs. \n\nAI is a generational technology, yet the journey from AI-absent to AI-native for companies of all sizes will be painful. \n\nGetting an individual to start using ChatGPT is easy. \n\nRebuilding full processes/workflows in a company is",
+    "metrics": {
+      "views": 57529,
+      "likes": 236,
+      "retweets": 22,
+      "replies": 24,
+      "bookmarks": 258
+    },
+    "createdAt": "Sat Dec 13 19:49:05 +0000 2025"
+  },
+  {
+    "url": "https://x.com/DBredvick/status/2007919980848029842",
+    "tweetId": "2007919980848029842",
+    "author": {
+      "name": "Drew Bredvick",
+      "handle": "DBredvick",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1462081803745775623/T539s4P6_normal.jpg",
+      "isVerified": true,
+      "followers": 6936
+    },
+    "text": "Add to your H1 roadmap: start an internal applied AI team.\n\nSteal folks from existing teams to found it:\n\n- Engineers that have seriously debated becoming a product manager\n\n- Sales/Solutions/Field engineers that like to build\n\nPoint them at your biggest sales/marketing problem.",
+    "metrics": {
+      "views": 10898,
+      "likes": 134,
+      "retweets": 5,
+      "replies": 8,
+      "bookmarks": 93
+    },
+    "createdAt": "Sun Jan 04 21:00:03 +0000 2026"
+  },
+  {
+    "url": "https://x.com/JamesonCamp/status/2009001893583048937",
+    "tweetId": "2009001893583048937",
+    "author": {
+      "name": "James Camp 🛠,🛠",
+      "handle": "JamesonCamp",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1942696087309148160/bd9Y12na_normal.jpg",
+      "isVerified": true,
+      "followers": 90947
+    },
+    "text": "$10M is easy if you leave this bubble\n\nIf you know what Claude Code, clipping, or MCPs are- you're in a bubble\n\nX is a magical corner of the internet. Take what you learn here and apply it to industries that aren't paying attention.",
+    "metrics": {
+      "views": 258723,
+      "likes": 3258,
+      "retweets": 95,
+      "replies": 104,
+      "bookmarks": 1982
+    },
+    "createdAt": "Wed Jan 07 20:39:11 +0000 2026"
+  },
+  {
+    "url": "https://x.com/damianplayer/status/2009258825619050899",
+    "tweetId": "2009258825619050899",
+    "author": {
+      "name": "Damian Player",
+      "handle": "damianplayer",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1919117586735742976/llztJcpL_normal.jpg",
+      "isVerified": true,
+      "followers": 44233
+    },
+    "text": "local in-person AI classes for corporate boomers. \n\neasily a $10K/mo opportunity.\n\nrent a presentation room. run meta ads targeting 35-60 year olds. charge $500 for a 2-day hands-on workshop.\n\nteach vibe coding, Claude, Gemini, prompting and agents.\n\nthe demand is insane.\n\nthese",
+    "metrics": {
+      "views": 262848,
+      "likes": 3674,
+      "retweets": 73,
+      "replies": 150,
+      "bookmarks": 2857
+    },
+    "createdAt": "Thu Jan 08 13:40:08 +0000 2026"
+  },
+  {
+    "url": "https://x.com/JustJake/status/2009356570631746008",
+    "tweetId": "2009356570631746008",
+    "author": {
+      "name": "Jake",
+      "handle": "JustJake",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1875304774314401792/sFwtBtJt_normal.jpg",
+      "isVerified": true,
+      "followers": 27571
+    },
+    "text": "If you're a stellar builder, the economics of your labor just changed\n\nAny organization that isn't empowering you to move at \"Agentic speed\" will destroy your economic value\n\nYou need to join orgs that are going all in and rebuilding all their internal processes around this",
+    "metrics": {
+      "views": 27434,
+      "likes": 421,
+      "retweets": 28,
+      "replies": 28,
+      "bookmarks": 121
+    },
+    "createdAt": "Thu Jan 08 20:08:33 +0000 2026"
+  },
+  {
+    "url": "https://x.com/shl/status/2009066671303217501",
+    "tweetId": "2009066671303217501",
+    "author": {
+      "name": "Sahil Lavingia",
+      "handle": "shl",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1885323625542127616/-8EVOv3W_normal.jpg",
+      "isVerified": true,
+      "followers": 385821
+    },
+    "text": "Automate Something People Don’t Want To Do",
+    "metrics": {
+      "views": 87634,
+      "likes": 1399,
+      "retweets": 72,
+      "replies": 157,
+      "bookmarks": 409
+    },
+    "createdAt": "Thu Jan 08 00:56:35 +0000 2026"
+  }
+]

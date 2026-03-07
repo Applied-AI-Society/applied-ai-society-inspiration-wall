@@ -2,9 +2,20 @@ import fs from "fs";
 import path from "path";
 import { TweetCard } from "./tweet-card";
 
+interface TweetEntry {
+  url: string;
+  tweetId: string;
+  author: {
+    name: string;
+    handle: string;
+  };
+  text: string;
+}
+
 interface TweetImage {
   filename: string;
   url: string;
+  alt: string;
 }
 
 function getTweetImages(): TweetImage[] {
@@ -12,24 +23,19 @@ function getTweetImages(): TweetImage[] {
   if (!fs.existsSync(tweetsDir)) return [];
 
   const tweetsJson = path.join(process.cwd(), "tweets.json");
-  if (fs.existsSync(tweetsJson)) {
-    const urls: string[] = JSON.parse(fs.readFileSync(tweetsJson, "utf-8"));
-    return urls
-      .map((url) => {
-        const match = url.match(/status\/(\d+)/);
-        if (!match) return null;
-        const filename = `${match[1]}.png`;
-        if (!fs.existsSync(path.join(tweetsDir, filename))) return null;
-        return { filename, url };
-      })
-      .filter((t): t is TweetImage => t !== null);
-  }
+  if (!fs.existsSync(tweetsJson)) return [];
 
-  return fs
-    .readdirSync(tweetsDir)
-    .filter((f) => f.endsWith(".png"))
-    .sort()
-    .map((filename) => ({ filename, url: "" }));
+  const entries: TweetEntry[] = JSON.parse(fs.readFileSync(tweetsJson, "utf-8"));
+  return entries
+    .map((entry) => {
+      const filename = `${entry.tweetId}.png`;
+      if (!fs.existsSync(path.join(tweetsDir, filename))) return null;
+      const alt = entry.author?.name
+        ? `Tweet by ${entry.author.name} (@${entry.author.handle}): ${entry.text?.slice(0, 120) || ""}`
+        : "Tweet";
+      return { filename, url: entry.url, alt };
+    })
+    .filter((t): t is TweetImage => t !== null);
 }
 
 export default function Home() {
@@ -45,8 +51,8 @@ export default function Home() {
         <h1>Inspiration Wall</h1>
       </div>
       <main className="masonry">
-        {tweets.map(({ filename, url }) => (
-          <TweetCard key={filename} filename={filename} url={url} />
+        {tweets.map(({ filename, url, alt }) => (
+          <TweetCard key={filename} filename={filename} url={url} alt={alt} />
         ))}
       </main>
     </>

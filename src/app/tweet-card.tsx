@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-export function TweetCard({ filename, url }: { filename: string; url: string }) {
+export function TweetCard({ filename, url, alt }: { filename: string; url: string; alt: string }) {
   const [showOverlay, setShowOverlay] = useState(false);
 
   return (
@@ -12,7 +12,7 @@ export function TweetCard({ filename, url }: { filename: string; url: string }) 
     >
       <img
         src={`/tweets/${filename}`}
-        alt="Tweet"
+        alt={alt}
         loading="lazy"
       />
       {showOverlay && (
