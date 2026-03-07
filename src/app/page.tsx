@@ -44,10 +44,12 @@ export default function Home() {
   return (
     <>
       <div className="header">
-        <img
-          src="https://docs.appliedaisociety.org/img/logo.svg"
-          alt="Applied AI Society"
-        />
+        <a href="https://appliedaisociety.org" target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://docs.appliedaisociety.org/img/logo.svg"
+            alt="Applied AI Society"
+          />
+        </a>
         <h1>Inspiration Wall</h1>
       </div>
       <main className="masonry">
