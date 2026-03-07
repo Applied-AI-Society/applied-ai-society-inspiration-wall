@@ -1,0 +1,131 @@
+@import "tailwindcss";
+
+:root {
+  --background: #FAF7F1;
+  --foreground: #1A1A1A;
+  --brand-orange: #E67B35;
+  --brand-yellow: #FFC14D;
+  --brand-cream: #FAF7F1;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: "DM Sans", system-ui, sans-serif;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 24px 16px 16px;
+}
+
+.header img {
+  height: 32px;
+  width: auto;
+}
+
+.header h1 {
+  font-family: "Space Grotesk", system-ui, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--foreground);
+  margin: 0;
+}
+
+.masonry {
+  columns: 1;
+  column-gap: 4px;
+  padding: 4px;
+}
+
+.masonry-item {
+  position: relative;
+  display: block;
+  break-inside: avoid;
+  margin-bottom: 4px;
+  cursor: pointer;
+}
+
+.masonry-item img {
+  width: 100%;
+  display: block;
+  border-radius: 2px;
+}
+
+.tweet-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2px;
+}
+
+.view-on-x {
+  background: var(--brand-orange);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.15s;
+  font-family: "DM Sans", system-ui, sans-serif;
+}
+
+.view-on-x:hover {
+  background: #d06a2a;
+}
+
+.overlay-close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  font-size: 14px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #111;
+}
+
+@media (min-width: 640px) {
+  .masonry {
+    columns: 2;
+  }
+}
+
+@media (min-width: 1024px) {
+  .masonry {
+    columns: 3;
+  }
+}
+
+@media (min-width: 1440px) {
+  .masonry {
+    columns: 4;
+  }
+}
+
+@media (min-width: 1920px) {
+  .masonry {
+    columns: 5;
+  }
+}
