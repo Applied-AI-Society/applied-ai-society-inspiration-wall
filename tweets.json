@@ -1,5 +1,25 @@
 [
   {
+    "url": "https://x.com/garysheng/status/2030504716896256404",
+    "tweetId": "2030504716896256404",
+    "author": {
+      "name": "Gary Sheng - The Applied AI Guy",
+      "handle": "garysheng",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1755776618805510145/nMdiSbJq_normal.jpg",
+      "isVerified": true,
+      "followers": 14465
+    },
+    "text": "in the past month, i've had dozens of conversations about the future with people who are definitively on the frontier.\n\njust wanted to share some of these insights with y'all, in no particular order:\n\n1. the bottleneck to applied AI isn't technical skill. it's imagination. most",
+    "metrics": {
+      "views": 1805,
+      "likes": 34,
+      "retweets": 9,
+      "replies": 8,
+      "bookmarks": 14
+    },
+    "createdAt": "Sun Mar 08 04:43:44 +0000 2026"
+  },
+  {
     "url": "https://x.com/damianplayer/status/2011483040929706442",
     "tweetId": "2011483040929706442",
     "author": {
@@ -9,7 +29,7 @@
       "isVerified": true,
       "followers": 44233
     },
-    "text": "the biggest AI opportunity right now is mid-market companies ($5M-$50M+ revenue):  \n\n\u2022 too big for cookie-cutter solutions \n\u2022 too small for enterprise consulting \n\u2022 drowning in manual workflows \n\u2022 have budget but zero AI expertise  \n\nthey\u2019re stuck with serious cash but frozen",
+    "text": "the biggest AI opportunity right now is mid-market companies ($5M-$50M+ revenue):  \n\n• too big for cookie-cutter solutions \n• too small for enterprise consulting \n• drowning in manual workflows \n• have budget but zero AI expertise  \n\nthey’re stuck with serious cash but frozen",
     "metrics": {
       "views": 57825,
       "likes": 776,
@@ -29,7 +49,7 @@
       "isVerified": true,
       "followers": 67723
     },
-    "text": "in 2026, \n\nevery company will be looking for \u201cai nerds\u201d\n\nnot data scientists. not ml engineers. just people who know how to automate boring shit with claude code, ai and llms\n\nthe new valuable skill is knowing which tasks to automate and how to glue tools together",
+    "text": "in 2026, \n\nevery company will be looking for “ai nerds”\n\nnot data scientists. not ml engineers. just people who know how to automate boring shit with claude code, ai and llms\n\nthe new valuable skill is knowing which tasks to automate and how to glue tools together",
     "metrics": {
       "views": 23697,
       "likes": 646,
@@ -49,7 +69,7 @@
       "isVerified": true,
       "followers": 44233
     },
-    "text": "go to grok and paste a profile url.   \n\nask it \u201cscrape tweets above 1k likes about [keyword]\u201d for any account in your niche.  \n\ngrab 5-10 of yours plus 5-10 from 3 top accounts in your space.  \n\nnow build a context profile:  \n\n\u2022 paste all tweets into claude  \n\u2022 ask it to find",
+    "text": "go to grok and paste a profile url.   \n\nask it “scrape tweets above 1k likes about [keyword]” for any account in your niche.  \n\ngrab 5-10 of yours plus 5-10 from 3 top accounts in your space.  \n\nnow build a context profile:  \n\n• paste all tweets into claude  \n• ask it to find",
     "metrics": {
       "views": 49969,
       "likes": 757,
@@ -129,7 +149,7 @@
       "isVerified": true,
       "followers": 44233
     },
-    "text": "this is fucking wild\u2026 \n\nnobody is selling claude-as-a-service to corporate boomers.. \n\nand it\u2019s THE most obvious arbitrage play on the internet.\n\nthis demographic controls the majority of company budgets in the US. \n\nthey have the authority to sign checks, the urgency to stay https://t.co/YQzWBgvTQF",
+    "text": "this is fucking wild… \n\nnobody is selling claude-as-a-service to corporate boomers.. \n\nand it’s THE most obvious arbitrage play on the internet.\n\nthis demographic controls the majority of company budgets in the US. \n\nthey have the authority to sign checks, the urgency to stay https://t.co/YQzWBgvTQF",
     "metrics": {
       "views": 68082,
       "likes": 588,
@@ -243,7 +263,7 @@
     "url": "https://x.com/MMatt14/status/2010188315572793467",
     "tweetId": "2010188315572793467",
     "author": {
-      "name": "M\u170btt",
+      "name": "Mᜋtt",
       "handle": "MMatt14",
       "avatarUrl": "https://pbs.twimg.com/profile_images/2008544580833296384/e-4yFntF_normal.jpg",
       "isVerified": true,
@@ -289,7 +309,7 @@
       "isVerified": true,
       "followers": 44233
     },
-    "text": "Mark Cuban\u2019s advice to people trying to get into AI is simple. help businesses implement.\n\nSMBs have budget but zero expertise. they\u2019re not waiting for AGI. they\u2019re waiting for someone to show them what\u2019s possible.\n\nwhat\u2019s stopping you from being the one they call? https://t.co/NHoh41hnT3",
+    "text": "Mark Cuban’s advice to people trying to get into AI is simple. help businesses implement.\n\nSMBs have budget but zero expertise. they’re not waiting for AGI. they’re waiting for someone to show them what’s possible.\n\nwhat’s stopping you from being the one they call? https://t.co/NHoh41hnT3",
     "metrics": {
       "views": 540759,
       "likes": 4291,
@@ -369,7 +389,7 @@
       "isVerified": false,
       "followers": 942995
     },
-    "text": "Robinhood CEO Vlad Tenev says AI is ushering in a \"job singularity\" \u2013 a Cambrian explosion of new job families across every imaginable field.\n\n\u201cThere's going to be a flurry of new entrepreneurial activity with micro corporations, solo institutions, and single-person unicorns.\u201d https://t.co/6gmohU5UPE",
+    "text": "Robinhood CEO Vlad Tenev says AI is ushering in a \"job singularity\" – a Cambrian explosion of new job families across every imaginable field.\n\n“There's going to be a flurry of new entrepreneurial activity with micro corporations, solo institutions, and single-person unicorns.” https://t.co/6gmohU5UPE",
     "metrics": {
       "views": 192869,
       "likes": 896,
@@ -389,7 +409,7 @@
       "isVerified": true,
       "followers": 44232
     },
-    "text": "stop trying to innovate with AI. every business runs on the same 5-6 core processes.\n\nthe bones are identical across industries. lead generation, sales, onboarding, fulfillment, reactivation.\n\nthe people making real money with AI aren\u2019t reinventing the wheel. they mapped what",
+    "text": "stop trying to innovate with AI. every business runs on the same 5-6 core processes.\n\nthe bones are identical across industries. lead generation, sales, onboarding, fulfillment, reactivation.\n\nthe people making real money with AI aren’t reinventing the wheel. they mapped what",
     "metrics": {
       "views": 13308,
       "likes": 230,
@@ -409,7 +429,7 @@
       "isVerified": true,
       "followers": 9424
     },
-    "text": "@martin_casado @noufalsoghyar @lateinteraction The bottleneck is underinvestment on the human capital side.\n\nMost people will sit through an AI upskilling class and still produce lazy slop. They\u2019ll have the same tools, use the same prompts, and get wildly different outputs than the person next to them. AI output is",
+    "text": "@martin_casado @noufalsoghyar @lateinteraction The bottleneck is underinvestment on the human capital side.\n\nMost people will sit through an AI upskilling class and still produce lazy slop. They’ll have the same tools, use the same prompts, and get wildly different outputs than the person next to them. AI output is",
     "metrics": {
       "views": 5860,
       "likes": 17,
@@ -429,7 +449,7 @@
       "isVerified": true,
       "followers": 44232
     },
-    "text": "who\u2019s selling claude-as-a-service?\n\nthere\u2019s insane demand for all things Claude right now. \n\nboomers would pay you serious money to get them setup on proper AI infra.",
+    "text": "who’s selling claude-as-a-service?\n\nthere’s insane demand for all things Claude right now. \n\nboomers would pay you serious money to get them setup on proper AI infra.",
     "metrics": {
       "views": 40947,
       "likes": 504,
@@ -569,7 +589,7 @@
       "isVerified": true,
       "followers": 253198
     },
-    "text": "Mark Cuban on the next big job students should focus on:\n\nMost companies don\u2019t know how to implement AI, especially small businesses.\n\n\u201cCompanies don\u2019t understand how to implement AI right now to get a competitive advantage\u2026 learn to customize a model, walk into a company, show https://t.co/uHOlgLMdOi",
+    "text": "Mark Cuban on the next big job students should focus on:\n\nMost companies don’t know how to implement AI, especially small businesses.\n\n“Companies don’t understand how to implement AI right now to get a competitive advantage… learn to customize a model, walk into a company, show https://t.co/uHOlgLMdOi",
     "metrics": {
       "views": 1031599,
       "likes": 4746,
@@ -643,7 +663,7 @@
     "url": "https://x.com/JamesonCamp/status/2009001893583048937",
     "tweetId": "2009001893583048937",
     "author": {
-      "name": "James Camp \ud83d\udee0,\ud83d\udee0",
+      "name": "James Camp 🛠,🛠",
       "handle": "JamesonCamp",
       "avatarUrl": "https://pbs.twimg.com/profile_images/1942696087309148160/bd9Y12na_normal.jpg",
       "isVerified": true,
@@ -729,7 +749,7 @@
       "isVerified": true,
       "followers": 385821
     },
-    "text": "Automate Something People Don\u2019t Want To Do",
+    "text": "Automate Something People Don’t Want To Do",
     "metrics": {
       "views": 87634,
       "likes": 1399,
