@@ -1,5 +1,45 @@
 [
   {
+    "url": "https://x.com/rohanpaul_ai/status/2034563625827078416",
+    "tweetId": "2034563625827078416",
+    "author": {
+      "name": "Rohan Paul",
+      "handle": "rohanpaul_ai",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1816185267037859840/Fd18CH0v_normal.jpg",
+      "isVerified": true,
+      "followers": 141824
+    },
+    "text": "Coinbase CEO, Brian Armstrong: Some great insights on how they are using internally hosted AI Agents.\n\n\"It’s connected to every Slack message, every Google Doc, and every Salesforce data confluence. Now, this is all linked up and the data is all aggregated, so you can ask these https://t.co/zFrF0206sF",
+    "metrics": {
+      "views": 13452,
+      "likes": 86,
+      "retweets": 5,
+      "replies": 7,
+      "bookmarks": 69
+    },
+    "createdAt": "Thu Mar 19 09:32:23 +0000 2026"
+  },
+  {
+    "url": "https://x.com/LayoffAI/status/2034123649939079593",
+    "tweetId": "2034123649939079593",
+    "author": {
+      "name": "Official Layoff",
+      "handle": "LayoffAI",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2027441478897963009/s35ppvFs_normal.jpg",
+      "isVerified": true,
+      "followers": 7623
+    },
+    "text": "LAYOFF ALERT: DELL\n\nDell just confirmed 11,000 jobs cut in their annual filing. \n\nThey spent $569M on severance and called it “disciplined cost management.”\n\nThe list keeps growing. https://t.co/Q6eSXokA7M",
+    "metrics": {
+      "views": 1851244,
+      "likes": 8192,
+      "retweets": 1696,
+      "replies": 171,
+      "bookmarks": 890
+    },
+    "createdAt": "Wed Mar 18 04:24:04 +0000 2026"
+  },
+  {
     "url": "https://x.com/tbpn/status/2031896844859769036",
     "tweetId": "2031896844859769036",
     "author": {
