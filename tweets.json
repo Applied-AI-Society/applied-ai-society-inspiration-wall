@@ -1,5 +1,125 @@
 [
   {
+    "url": "https://x.com/Cointelegraph/status/2035862048370770365",
+    "tweetId": "2035862048370770365",
+    "author": {
+      "name": "Cointelegraph",
+      "handle": "Cointelegraph",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1755983593925378048/kYutau0B_normal.jpg",
+      "isVerified": true,
+      "followers": 2921811
+    },
+    "text": "🔥 JUST IN: Mark Zuckerberg creates an AI agent to help run Meta, aiming to eliminate management layers and speed up decision-making, WSJ reports. https://t.co/3Hj5FQdNyu",
+    "metrics": {
+      "views": 36850,
+      "likes": 480,
+      "retweets": 76,
+      "replies": 120,
+      "bookmarks": 47
+    },
+    "createdAt": "Sun Mar 22 23:31:51 +0000 2026"
+  },
+  {
+    "url": "https://x.com/MeghanBobrowsky/status/2035849211468767595",
+    "tweetId": "2035849211468767595",
+    "author": {
+      "name": "Meghan Bobrowsky",
+      "handle": "MeghanBobrowsky",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1955002772656631808/MS9yHShl_normal.jpg",
+      "isVerified": true,
+      "followers": 9646
+    },
+    "text": "Scoop: Mark Zuckerberg is building a CEO agent to help him do his job, according to a person familiar with the project. \n\nEmployees are also adopting AI agents and AI tools internally, namely My Claw and Second Brain, in a bid to speed up work, as they get graded on AI use. https://t.co/csuIAbPJNF",
+    "metrics": {
+      "views": 80110,
+      "likes": 331,
+      "retweets": 32,
+      "replies": 46,
+      "bookmarks": 137
+    },
+    "createdAt": "Sun Mar 22 22:40:50 +0000 2026"
+  },
+  {
+    "url": "https://x.com/noahzweben/status/2035122989533163971",
+    "tweetId": "2035122989533163971",
+    "author": {
+      "name": "Noah Zweben",
+      "handle": "noahzweben",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1983955803137814528/cbOrJWsw_normal.jpg",
+      "isVerified": true,
+      "followers": 20103
+    },
+    "text": "You can now schedule recurring cloud-based tasks on Claude Code.\n\nSet a repo (or repos), a schedule, and a prompt. Claude runs it via cloud infra on your schedule, so you don’t need to keep Claude Code running on your local machine. https://t.co/Vse4WfVnKC",
+    "metrics": {
+      "views": 1460160,
+      "likes": 6745,
+      "retweets": 487,
+      "replies": 256,
+      "bookmarks": 5136
+    },
+    "createdAt": "Fri Mar 20 22:35:06 +0000 2026"
+  },
+  {
+    "url": "https://x.com/garysheng/status/2035421374827618749",
+    "tweetId": "2035421374827618749",
+    "author": {
+      "name": "Gary Sheng - The Applied AI Guy",
+      "handle": "garysheng",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1755776618805510145/nMdiSbJq_normal.jpg",
+      "isVerified": true,
+      "followers": 14469
+    },
+    "text": "@Codie_Sanchez This will soon be true:\n\nSF leads in frontier research; Austin leads in frontier application.",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0
+    },
+    "createdAt": "Sat Mar 21 18:20:46 +0000 2026"
+  },
+  {
+    "url": "https://x.com/BillDA/status/2035141442503340538",
+    "tweetId": "2035141442503340538",
+    "author": {
+      "name": "Bill D'Alessandro",
+      "handle": "BillDA",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1420739893739892737/PYtIznNJ_normal.jpg",
+      "isVerified": true,
+      "followers": 28748
+    },
+    "text": "Spending 3 days vibe coding a replacement for $20/mo software is not the flex y’all think it is",
+    "metrics": {
+      "views": 26529,
+      "likes": 272,
+      "retweets": 3,
+      "replies": 56,
+      "bookmarks": 12
+    },
+    "createdAt": "Fri Mar 20 23:48:25 +0000 2026"
+  },
+  {
+    "url": "https://x.com/lukepierceops/status/2035033411790770656",
+    "tweetId": "2035033411790770656",
+    "author": {
+      "name": "Luke Pierce",
+      "handle": "lukepierceops",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1858706582768340992/BKbyrKsQ_normal.jpg",
+      "isVerified": true,
+      "followers": 5727
+    },
+    "text": "Anthropic and OpenAI are both building PE-backed consulting arms to deploy AI inside companies.\n\nLet that sink in for a second.\n\nThe two companies building the most powerful AI on earth looked at the market and said \"businesses can't figure out how to use this. We need to go in https://t.co/fvbp5Q5GZb",
+    "metrics": {
+      "views": 10778,
+      "likes": 114,
+      "retweets": 8,
+      "replies": 5,
+      "bookmarks": 157
+    },
+    "createdAt": "Fri Mar 20 16:39:09 +0000 2026"
+  },
+  {
     "url": "https://x.com/rohanpaul_ai/status/2034563625827078416",
     "tweetId": "2034563625827078416",
     "author": {
