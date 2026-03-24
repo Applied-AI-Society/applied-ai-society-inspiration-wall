@@ -1,5 +1,65 @@
 [
   {
+    "url": "https://x.com/toddsaunders/status/2036254184454881594",
+    "tweetId": "2036254184454881594",
+    "author": {
+      "name": "Todd Saunders",
+      "handle": "toddsaunders",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1864085962269110272/xFuUH3pu_normal.jpg",
+      "isVerified": true,
+      "followers": 14003
+    },
+    "text": "We’re about to witness the largest wealth transfer in the history of software.\n\nA single operator with domain expertise and AI tools can now build what used to require a 50 person team in just a few weeks. \n\nThis is why I’m so long vertical agencies. \n\nThey have distribution,",
+    "metrics": {
+      "views": 21163,
+      "likes": 124,
+      "retweets": 9,
+      "replies": 12,
+      "bookmarks": 152
+    },
+    "createdAt": "Tue Mar 24 01:30:04 +0000 2026"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2036182407779365309",
+    "tweetId": "2036182407779365309",
+    "author": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/525262417635205120/xkF8FYY-_normal.jpeg",
+      "isVerified": true,
+      "followers": 135222
+    },
+    "text": "Going to be hard to explain to future generations that there was a time, before Claude Code, when people with an idea would sometimes spend years looking for a “technical co-founder”",
+    "metrics": {
+      "views": 18098,
+      "likes": 394,
+      "retweets": 22,
+      "replies": 36,
+      "bookmarks": 39
+    },
+    "createdAt": "Mon Mar 23 20:44:51 +0000 2026"
+  },
+  {
+    "url": "https://x.com/RampLabs/status/2036169782764925106",
+    "tweetId": "2036169782764925106",
+    "author": {
+      "name": "Ramp Labs",
+      "handle": "RampLabs",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1953463704529362944/gv1pUgYO_normal.jpg",
+      "isVerified": true,
+      "followers": 6997
+    },
+    "text": "We built a codebase that maintains itself.\n\nAn agent instruments every pull request, triages alerts, and pushes fixes autonomously. The system runs on a thousand AI-generated monitors, one for every 75 lines of code.",
+    "metrics": {
+      "views": 140084,
+      "likes": 629,
+      "retweets": 22,
+      "replies": 20,
+      "bookmarks": 715
+    },
+    "createdAt": "Mon Mar 23 19:54:41 +0000 2026"
+  },
+  {
     "url": "https://x.com/Cointelegraph/status/2035862048370770365",
     "tweetId": "2035862048370770365",
     "author": {
