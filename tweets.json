@@ -1,5 +1,45 @@
 [
   {
+    "url": "https://x.com/jpschroeder/status/2036078689754992886",
+    "tweetId": "2036078689754992886",
+    "author": {
+      "name": "Justin Schroeder",
+      "handle": "jpschroeder",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1532735511953035270/1AwnrbP7_normal.jpg",
+      "isVerified": true,
+      "followers": 5497
+    },
+    "text": "We’re open sourcing ArrowJS 1.0: the first UI framework for coding agents.\n\nImagine React/Vue, but with no compiler, build process, or JSX transformer. It’s just TS/JS so LLMs are already *great* at it.\n\nAND run generated code securely w/ sandbox pkg.\n\n➡️ https://t.co/y477CtT6qY https://t.co/mvUTv6KV0C",
+    "metrics": {
+      "views": 148811,
+      "likes": 1354,
+      "retweets": 109,
+      "replies": 61,
+      "bookmarks": 1627
+    },
+    "createdAt": "Mon Mar 23 13:52:42 +0000 2026"
+  },
+  {
+    "url": "https://x.com/fuserstudio/status/2036110547197022602",
+    "tweetId": "2036110547197022602",
+    "author": {
+      "name": "Fuser",
+      "handle": "fuserstudio",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1979361818746241024/Ed3Fv3P7_normal.jpg",
+      "isVerified": true,
+      "followers": 4294
+    },
+    "text": "Your canvas just got a powerful new instrument: the Creative Code node. Write, prompt, and generate embeddable sketches—right inside your Fuser workflow. Use Three.js, p5.js, and HTML5 to build interactive visuals, 3D scenes, animations, and more.  Describe what you want, and https://t.co/hAnvqxet49",
+    "metrics": {
+      "views": 67183,
+      "likes": 367,
+      "retweets": 29,
+      "replies": 13,
+      "bookmarks": 482
+    },
+    "createdAt": "Mon Mar 23 15:59:18 +0000 2026"
+  },
+  {
     "url": "https://x.com/toddsaunders/status/2036254184454881594",
     "tweetId": "2036254184454881594",
     "author": {
