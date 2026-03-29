@@ -1,5 +1,125 @@
 [
   {
+    "url": "https://x.com/michael_chomsky/status/2038266680296747079",
+    "tweetId": "2038266680296747079",
+    "author": {
+      "name": "Michael",
+      "handle": "michael_chomsky",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1995587948914638854/iGEDdcOq_normal.jpg",
+      "isVerified": true,
+      "followers": 12091
+    },
+    "text": "For those that don't understand what @steipete just announced:\n\nOpenClaw is becoming an MCP server. I run a cloud OpenClaw company. Let me explain why this is a very good thing for OpenClaw.\n\nBefore this, connecting to OpenClaw programmatically was pain. Custom WebSocket glue",
+    "metrics": {
+      "views": 29847,
+      "likes": 221,
+      "retweets": 14,
+      "replies": 14,
+      "bookmarks": 274
+    },
+    "createdAt": "Sun Mar 29 14:47:00 +0000 2026"
+  },
+  {
+    "url": "https://x.com/rohanpaul_ai/status/2037856483757654301",
+    "tweetId": "2037856483757654301",
+    "author": {
+      "name": "Rohan Paul",
+      "handle": "rohanpaul_ai",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1816185267037859840/Fd18CH0v_normal.jpg",
+      "isVerified": true,
+      "followers": 143241
+    },
+    "text": "Dan Thomasset (Principal Engineer at Google) says PMs are running circles around Software engineers with AI https://t.co/hTlmn4hSLZ",
+    "metrics": {
+      "views": 75517,
+      "likes": 799,
+      "retweets": 69,
+      "replies": 76,
+      "bookmarks": 474
+    },
+    "createdAt": "Sat Mar 28 11:37:01 +0000 2026"
+  },
+  {
+    "url": "https://x.com/Codie_Sanchez/status/2037551991002476919",
+    "tweetId": "2037551991002476919",
+    "author": {
+      "name": "Codie Sanchez",
+      "handle": "Codie_Sanchez",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1648315397022572544/2fCMWlPw_normal.jpg",
+      "isVerified": true,
+      "followers": 700814
+    },
+    "text": "Somewhere right now, a competitor's CEO is talking about AI every week. Reorganizing around it. Shipping. Showing the team how to use it. Building a smaller, faster machine.\n\nYours isn't doing that? Get out.",
+    "metrics": {
+      "views": 12006,
+      "likes": 268,
+      "retweets": 20,
+      "replies": 118,
+      "bookmarks": 33
+    },
+    "createdAt": "Fri Mar 27 15:27:05 +0000 2026"
+  },
+  {
+    "url": "https://x.com/ashen_one/status/2036918432256376926",
+    "tweetId": "2036918432256376926",
+    "author": {
+      "name": "ashen",
+      "handle": "ashen_one",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2032913241878441984/SdsiTp3X_normal.jpg",
+      "isVerified": true,
+      "followers": 52991
+    },
+    "text": "I can no longer recommend folks use Openclaw\n\nits amazing and i have two mac minis but\n\nClaude Cowork Computer basically does all the same things but 1000% easier \n\nlike this is what most people will use it for and its so much easier to get going than openclaw https://t.co/6J8v3Ui7Mp",
+    "metrics": {
+      "views": 12639,
+      "likes": 148,
+      "retweets": 3,
+      "replies": 49,
+      "bookmarks": 85
+    },
+    "createdAt": "Wed Mar 25 21:29:33 +0000 2026"
+  },
+  {
+    "url": "https://x.com/JaySahnan/status/2036867489645420933",
+    "tweetId": "2036867489645420933",
+    "author": {
+      "name": "Jay",
+      "handle": "JaySahnan",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1942986228426559488/q01D7Xey_normal.jpg",
+      "isVerified": true,
+      "followers": 2213
+    },
+    "text": "POV - showing your non-technical coworker Claude Code for the first time \n\n@brickywhat https://t.co/eOLziAo0fC",
+    "metrics": {
+      "views": 118840,
+      "likes": 2315,
+      "retweets": 67,
+      "replies": 59,
+      "bookmarks": 279
+    },
+    "createdAt": "Wed Mar 25 18:07:07 +0000 2026"
+  },
+  {
+    "url": "https://x.com/Coinvo/status/2036510757618168054",
+    "tweetId": "2036510757618168054",
+    "author": {
+      "name": "Coinvo",
+      "handle": "Coinvo",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1827019079464464395/4EqQ-50j_normal.jpg",
+      "isVerified": false,
+      "followers": 335978
+    },
+    "text": "BREAKING: Nvidia CEO says, \"I'll hire an AI-fluent college grad over one with no AI skills. Every single time.\" https://t.co/TAZbmq0UPw",
+    "metrics": {
+      "views": 10296,
+      "likes": 163,
+      "retweets": 18,
+      "replies": 27,
+      "bookmarks": 6
+    },
+    "createdAt": "Tue Mar 24 18:29:35 +0000 2026"
+  },
+  {
     "url": "https://x.com/oguzerkan/status/2036377000043024393",
     "tweetId": "2036377000043024393",
     "author": {
