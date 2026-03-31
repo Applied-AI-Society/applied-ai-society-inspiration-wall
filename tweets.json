@@ -1,5 +1,85 @@
 [
   {
+    "url": "https://x.com/MarikHazan/status/2039040630157123824",
+    "tweetId": "2039040630157123824",
+    "author": {
+      "name": "Marik Hazan",
+      "handle": "MarikHazan",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1612658461766041602/eN-H2xfe_normal.jpg",
+      "isVerified": true,
+      "followers": 2130
+    },
+    "text": "We just rebuilt every startup in @ycombinator's latest demo day batch.\n\nHere's what our agentic \"founders\" pulled off and what it means for the future of startups.\n\nFully useable products at the bottom of the thread below 🤖🧨 https://t.co/a5ls2HePa6",
+    "metrics": {
+      "views": 101114,
+      "likes": 229,
+      "retweets": 27,
+      "replies": 46,
+      "bookmarks": 227
+    },
+    "createdAt": "Tue Mar 31 18:02:24 +0000 2026"
+  },
+  {
+    "url": "https://x.com/birdabo/status/2039007556811866571",
+    "tweetId": "2039007556811866571",
+    "author": {
+      "name": "sui ☄️",
+      "handle": "birdabo",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2030583081640538112/ah_ze8Rd_normal.jpg",
+      "isVerified": true,
+      "followers": 23024
+    },
+    "text": "&gt; anthropic’s biggest leak yet. \n&gt; someone made a repo about it.\n&gt; repo hit 50k forks. 40k stars\n&gt; anthropic starts hitting devs with DMCA.\n&gt; bro got scared.\n&gt; he converted everything to python.\n&gt; genius move.\n&gt; he aint satisfied.\n&gt; rewrites everything in rust.\n\nbro is fearless. https://t.co/5jpNRWraIN",
+    "metrics": {
+      "views": 7690,
+      "likes": 184,
+      "retweets": 13,
+      "replies": 29,
+      "bookmarks": 47
+    },
+    "createdAt": "Tue Mar 31 15:50:59 +0000 2026"
+  },
+  {
+    "url": "https://x.com/amaan8429/status/2038924254570545298",
+    "tweetId": "2038924254570545298",
+    "author": {
+      "name": "Amaan",
+      "handle": "amaan8429",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2004476749791600640/t-Ah82dN_normal.jpg",
+      "isVerified": true,
+      "followers": 10499
+    },
+    "text": "CLAUDE CODE HIDDEN FEATURES THAT ARE NOT RELEASED YET https://t.co/L40nKakSN8",
+    "metrics": {
+      "views": 29827,
+      "likes": 267,
+      "retweets": 12,
+      "replies": 9,
+      "bookmarks": 171
+    },
+    "createdAt": "Tue Mar 31 10:19:58 +0000 2026"
+  },
+  {
+    "url": "https://x.com/MatthewBerman/status/2038805481087812032",
+    "tweetId": "2038805481087812032",
+    "author": {
+      "name": "Matthew Berman",
+      "handle": "MatthewBerman",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2029976218397966336/HX3HJhdD_normal.jpg",
+      "isVerified": true,
+      "followers": 113829
+    },
+    "text": "Claude Code and Cursor... but they improve themselves. Autonomously.\n\nMeta Harness is wild.\n\nHad to make a video about it... https://t.co/oBqwctWuKH",
+    "metrics": {
+      "views": 22264,
+      "likes": 133,
+      "retweets": 12,
+      "replies": 15,
+      "bookmarks": 165
+    },
+    "createdAt": "Tue Mar 31 02:28:00 +0000 2026"
+  },
+  {
     "url": "https://x.com/geoffreywoo/status/2037910471484076088",
     "tweetId": "2037910471484076088",
     "author": {
