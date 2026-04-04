@@ -1,5 +1,85 @@
 [
   {
+    "url": "https://x.com/kmcnam1/status/2040112471134851513",
+    "tweetId": "2040112471134851513",
+    "author": {
+      "name": "sudox",
+      "handle": "kmcnam1",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2039237534866456576/gWUmzy0c_normal.jpg",
+      "isVerified": true,
+      "followers": 22747
+    },
+    "text": "https://t.co/DRGWBwhpdU",
+    "metrics": {
+      "views": 29630,
+      "likes": 709,
+      "retweets": 121,
+      "replies": 13,
+      "bookmarks": 153
+    },
+    "createdAt": "Fri Apr 03 17:01:31 +0000 2026"
+  },
+  {
+    "url": "https://x.com/awesomekling/status/2039407462462177789",
+    "tweetId": "2039407462462177789",
+    "author": {
+      "name": "Andreas Kling",
+      "handle": "awesomekling",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2000586443077373955/2BQTH8rC_normal.jpg",
+      "isVerified": true,
+      "followers": 59504
+    },
+    "text": "I wonder if anyone will assemble a team of 100+ paid software engineers ever again.",
+    "metrics": {
+      "views": 40204,
+      "likes": 260,
+      "retweets": 3,
+      "replies": 51,
+      "bookmarks": 23
+    },
+    "createdAt": "Wed Apr 01 18:20:04 +0000 2026"
+  },
+  {
+    "url": "https://x.com/rdominguezibar/status/2039225599135199730",
+    "tweetId": "2039225599135199730",
+    "author": {
+      "name": "Ruben",
+      "handle": "rdominguezibar",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/2028166352704540672/p9vRZh5r_normal.jpg",
+      "isVerified": true,
+      "followers": 4902
+    },
+    "text": "Sequoia just mapped $1 trillion in services being replaced by AI agents⚡\nAlready on autopilot:\n▫️ Insurance brokerage $140-200B\n▫️ IT managed services $100B+\n▫️ Payroll &amp; compliance $50-70B\n▫️ Accounting &amp; audit $50-80B\n▫️ Paralegal / LPO $36B\n\nNext wave coming:\n▫️ Supply chain https://t.co/LVAxAQSWuj",
+    "metrics": {
+      "views": 6350,
+      "likes": 72,
+      "retweets": 8,
+      "replies": 8,
+      "bookmarks": 94
+    },
+    "createdAt": "Wed Apr 01 06:17:24 +0000 2026"
+  },
+  {
+    "url": "https://x.com/tobi/status/2039335171913076791",
+    "tweetId": "2039335171913076791",
+    "author": {
+      "name": "tobi lutke",
+      "handle": "tobi",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1999293930936909824/_HWYanot_normal.jpg",
+      "isVerified": true,
+      "followers": 459334
+    },
+    "text": "The most AI proof job in the world is entrepreneurship\n\nUse it to make products and services. Build more companies. On Shopify or otherwise.",
+    "metrics": {
+      "views": 7782,
+      "likes": 296,
+      "retweets": 22,
+      "replies": 38,
+      "bookmarks": 44
+    },
+    "createdAt": "Wed Apr 01 13:32:48 +0000 2026"
+  },
+  {
     "url": "https://x.com/MarikHazan/status/2039040630157123824",
     "tweetId": "2039040630157123824",
     "author": {
